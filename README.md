@@ -2,6 +2,7 @@
 
 * 안녕하세요👋 @bonjeon-ppobgi 팀 입니다.
 * IPS "마음기상청" 프로젝트를 진행하고 있습니다.
+* 우수상 수상했습니다아~!
 
 <br><br>  
 ### ⛅️Project Description <hr/>
